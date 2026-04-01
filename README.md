@@ -37,7 +37,7 @@ The dashboard provides a clear view of:
 - Power Query (Data extraction & transformation)  
 - Pivot Tables & Charts  
 - Business Scenario Modeling  
-- **API-based data extraction from public freight index sources: https://fred.stlouisfed.org/ **  
+- API-based data extraction from public freight index sources: https://fred.stlouisfed.org/
 
 ---
 
