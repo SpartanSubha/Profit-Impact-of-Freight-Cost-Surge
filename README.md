@@ -20,7 +20,8 @@ The dashboard provides a clear view of:
 ---
 
 ## 📷 Dashboard Preview
-[![Dashboard](dashboard-preview.png)](https://github.com/SpartanSubha/Profit-Impact-of-Freight-Cost-Surge/blob/main/Profit%20Impact%20of%20Freight%20Cost%20Surge.png)
+<img width="1862" height="775" alt="image" src="https://github.com/user-attachments/assets/05025533-ace9-48c0-b8d5-f4603c0e7ecf" />
+
 
 ---
 
