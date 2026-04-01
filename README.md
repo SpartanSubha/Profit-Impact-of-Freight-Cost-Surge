@@ -1,13 +1,13 @@
 # 📊 Global Freight Cost Shock & Profitability Impact Dashboard
 
 ## 📌 Overview
-This project analyzes global supply chain disruptions and their impact on freight costs and business profitability.
+This is my **first Business Analytics project**, where I analyzed global supply chain disruptions and their impact on freight costs and profitability.
 
 The dashboard provides a clear view of:
 - Historical freight cost trends (Sea vs Air)
 - Cost escalation vs pre-COVID baseline (2019)
-- Monthly changes and cost volatility
-- Impact of freight cost surge on profit margins
+- Monthly changes and volatility
+- Impact of freight cost surge on business profit margins
 
 ---
 
@@ -19,27 +19,43 @@ The dashboard provides a clear view of:
 
 ---
 
-## 📷 Dashboard Preview
-<img width="1862" height="775" alt="image" src="https://github.com/user-attachments/assets/05025533-ace9-48c0-b8d5-f4603c0e7ecf" />
+## 📖 Key Terms & Definitions
 
+- **Sea Freight Index**: Measures the cost of shipping goods via ocean transport  
+- **Air Freight Index**: Measures the cost of shipping goods via air transport  
+- **Baseline (2019)**: Pre-COVID reference point used for comparison  
+- **Monthly Change (MoM)**: Month-over-month percentage change in freight cost  
+- **Freight Cost Gap**: Difference between sea and air freight costs  
+- **Blended Freight Inflation**: Average increase in freight costs combining sea and air  
+- **Supply Chain Shock (2022–2024)**: Period of disruption due to global events (COVID aftermath, geopolitical issues, tariffs)  
+- **Profit Impact Model**: A scenario showing how increased freight costs reduce business profitability  
 
 ---
 
-## 🛠️ Tools Used
-- Microsoft Excel
-- Power Query (Data extraction & transformation)
-- Pivot Tables & Charts
-- Business scenario modeling (Profit impact)
+## 🛠️ Tools & Data Sources
+- Microsoft Excel  
+- Power Query (Data extraction & transformation)  
+- Pivot Tables & Charts  
+- Business Scenario Modeling  
+- **API-based data extraction from public freight index sources**  
+
+---
+
+## 📷 Dashboard Preview
+<img width="1862" height="775" alt="image" src="https://github.com/user-attachments/assets/9455e2f6-74bd-4b10-b805-f602a2843320" />
+
 
 ---
 
 ## 📈 Business Value
 This dashboard helps decision-makers:
-- Understand cost pressures in global logistics
-- Evaluate profitability impact
-- Make strategic sourcing & pricing decisions
+- Understand global logistics cost pressures  
+- Analyze impact on profitability  
+- Support strategic pricing and sourcing decisions  
 
 ---
 
 ## 👤 Author
 **Subhabrata Sahoo**
+
+🔗 LinkedIn: https://www.linkedin.com/in/subhabrata99/
